@@ -1,4 +1,2 @@
 # learning
-
-
-first commit
+#first commit
