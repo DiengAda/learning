@@ -5,5 +5,5 @@ qui permet de concerver un historique de modificationeffectuées dur un projet a
 Brièvement, Git vanous permettre d'enregistrer les diffèrentes modifications effectuées sur un projet e tde pouvoir retourner à une version précedente du projet.
 
 
-## Qu'est-ce que Github ?
+# Qu'est-ce que Github ?
 
