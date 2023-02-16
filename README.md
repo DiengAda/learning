@@ -1,3 +1,3 @@
-# learning
+# Des commandes git et leurs roles:
 
-added commit
+Nous allons donner certaines commandes git et leurs utilités.
