@@ -7,3 +7,5 @@ Brièvement, Git vanous permettre d'enregistrer les diffèrentes modifications e
 
 # Qu'est-ce que Github ?
 Dans le langage de système de gestion de verson, la copie de l'intégralité des fichiers d'un rojet et de leur version située dans le serveur central est appelée un depot Git; on appelle egalement cela un "repository" ou "repo" en abrégé.
+
+Github est un service en ligne qui permet d'heberger des depots ou des "repo Git". C'est le plus grand hebergeur des depots Git au monde.
