@@ -13,3 +13,5 @@ Dans le langage de système de gestion de verson, la copie de l'intégralité de
 Github est un service en ligne qui permet d'heberger des depots ou des "repo Git". C'est le plus grand hebergeur des depots Git au monde.
 Une grande partie des depots hebergés sur Github sont publics; c'est-à-dire n'importe qui peut télecharger le code de ce epots et contribuer à leur developpement en ajoutant de nouvelles fonctionnalités.
 
+Pour récapituler, Git est un logiciel de gestion de version tandis que, Githuh est unservice en ligne d'hebergement des depots gits qui fait office de serveur central pour ces depots.
+
