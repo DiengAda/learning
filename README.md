@@ -1,4 +1,5 @@
-# INTRODUCTION 
+# INTRODUCTION:
+Cette partie va nous permettre de definir précisement ce que sont Git et Github afin d'éviter une confusion plutard.
 
 ## Qu'est-ce que Git ?
 Git est un logiciel de versioning crée en 2005 par le createur de linux. Un logiciel de versioning ou logiciel de gestion de version est un logiciel
