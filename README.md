@@ -6,5 +6,7 @@ Nous allons donner certaines commandes git et leurs utilités.
 
 -git add ==> permet d'ajouter un fichier au dépôt git.
 
--git commit -m "message" ==> permet de valider les modifications faites sur le dépôt git
+-git commit -m "message" ==> permet de valider les modifications faites sur le dépôt git.
+
+-git status ==> permet de voir l'état du dépôt git.
 
