@@ -24,4 +24,8 @@ Nous allons donner certaines commandes git et leurs utilités.
 
 -git status ==> permet de voir l'état du dépôt git.
 
+-git log ==> permet de voir l'historique des commits.
+
+-git diff ==> permet de voir les différences entre les commits.
+
 
