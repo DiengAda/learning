@@ -28,4 +28,9 @@ Nous allons donner certaines commandes git et leurs utilités.
 
 -git diff ==> permet de voir les différences entre les commits.
 
+-git checkout ==> permet de revenir à un commit précédent.
+
+-git branch ==> permet de créer une branche.
+
+
 
