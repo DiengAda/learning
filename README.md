@@ -32,5 +32,13 @@ Nous allons donner certaines commandes git et leurs utilités.
 
 -git branch ==> permet de créer une branche.
 
+-git merge ==> permet de fusionner une branche avec la branche courante.
+
+-git remote ==> permet de gérer les dépôts distants.
+
+-git push ==> permet d'envoyer les commits vers un dépôt distant.
+
+-git pull ==> permet de récupérer les commits d'un dépôt distant.
+
 
 
