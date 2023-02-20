@@ -32,5 +32,11 @@ Nous allons donner certaines commandes git et leurs utilités.
 
 -git reset ==> permet de revenir à un commit précédent.
 
+-git ls-files ==> permet de lister les fichiers suivis par git.
+
+-git rm ==> permet de supprimer un fichier du dépôt git.
+
+-git mv ==> permet de renommer un fichier du dépôt git.
+
 
 
