@@ -26,5 +26,9 @@ Nous allons donner certaines commandes git et leurs utilités.
 
 -git pull ==> permet de récupérer les commits d'un dépôt distant.
 
+-git clone ==> permet de cloner un dépôt distant.
+
+-git stash ==> permet de mettre de côté les modifications non validées.
+
 
 
