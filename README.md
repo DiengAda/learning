@@ -30,5 +30,7 @@ Nous allons donner certaines commandes git et leurs utilités.
 
 -git stash ==> permet de mettre de côté les modifications non validées.
 
+-git reset ==> permet de revenir à un commit précédent.
+
 
 
