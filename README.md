@@ -52,6 +52,8 @@ Nous allons donner certaines commandes git et leurs utilités.
 
 -git shortlog ==> permet de lister les auteurs des commits.
 
+-git describe ==> permet de décrire un commit.
+
 
 
 
