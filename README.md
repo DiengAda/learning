@@ -38,6 +38,14 @@ Nous allons donner certaines commandes git et leurs utilités.
 
 -git mv ==> permet de renommer un fichier du dépôt git.
 
+-git tag ==> permet de créer une étiquette.
+
+-git show ==> permet d'afficher les modifications d'un commit.
+
+-git diff ==> permet de voir les différences entre les commits.
+
+-git blame ==> permet de voir qui a modifié une ligne de code.
+
 
 
 
