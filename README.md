@@ -46,6 +46,14 @@ Nous allons donner certaines commandes git et leurs utilités.
 
 -git blame ==> permet de voir qui a modifié une ligne de code.
 
+-git ls-tree ==> permet de lister les fichiers d'un commit.
+
+-git grep ==> permet de rechercher une chaîne de caractères dans les fichiers suivis par git.
+
+-git shortlog ==> permet de lister les auteurs des commits.
+
+
+
 
 
 
