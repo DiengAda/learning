@@ -1,3 +1,4 @@
+
 # Des commandes git et leurs roles:
 
 Nous allons donner certaines commandes git et leurs utilités.
@@ -55,9 +56,3 @@ Nous allons donner certaines commandes git et leurs utilités.
 -git describe ==> permet de décrire un commit.
 
 -git  confi
-
-
-
-
-
-
