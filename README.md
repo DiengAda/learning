@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # INTRODUCTION:
 Cette partie va nous permettre de definir précisement ce que sont Git et Github afin d'éviter une confusion plutard.
 
