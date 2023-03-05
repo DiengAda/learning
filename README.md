@@ -55,4 +55,8 @@ Nous allons donner certaines commandes git et leurs utilités.
 
 -git describe ==> permet de décrire un commit.
 
--git  config
+-git  config ==> permet de configurer git.  
+
+-git help ==> permet d'afficher l'aide de git.
+
+-git  version ==> permet d'afficher la version de git.
