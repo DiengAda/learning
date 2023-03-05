@@ -1,13 +1,61 @@
-# INTRODUCTION:
-Cette partie va nous permettre de definir précisement ce que sont Git et Github afin d'éviter une confusion plutard.
+# Des commandes git et leurs roles:
 
-## Qu'est-ce que Git ?
-Git est un logiciel de versioning crée en 2005 par le createur de linux. Un logiciel de versioning ou logiciel de gestion de version est un logiciel
-qui permet de concerver un historique de modificationeffectuées dur un projet afin de pouvoir rapidement identifier les changements effectués et de revenir à une ancienne version en cas de problème.
-## Qu'est-ce que Github ?
-Dans le langage de système de gestion de verson, la copie de l'intégralité des fichiers d'un rojet et de leur version située dans le serveur central est appelée un depot Git; on appelle egalement cela un "repository" ou "repo" en abrégé.
+Nous allons donner certaines commandes git et leurs utilités.
 
-Github est un service en ligne qui permet d'heberger des depots ou des "repo Git". C'est le plus grand hebergeur des depots Git au monde.
-Une grande partie des depots hebergés sur Github sont publics; c'est-à-dire n'importe qui peut télecharger le code de ce epots et contribuer à leur developpement en ajoutant de nouvelles fonctionnalités.
+-git init ==> permet d'initialiser un dépôt git dans le dossier courant.
 
-Pour récapituler, Git est un logiciel de gestion de version tandis que, Githuh est unservice en ligne d'hebergement des depots gits qui fait office de serveur central pour ces depots.
+-git add ==> permet d'ajouter un fichier au dépôt git.
+
+-git commit -m "message" ==> permet de valider les modifications faites sur le dépôt git.
+
+-git status ==> permet de voir l'état du dépôt git.
+
+-git log ==> permet de voir l'historique des commits.
+
+-git diff ==> permet de voir les différences entre les commits.
+
+-git checkout ==> permet de revenir à un commit précédent.
+
+-git branch ==> permet de créer une branche.
+
+-git merge ==> permet de fusionner une branche avec la branche courante.
+
+-git remote ==> permet de gérer les dépôts distants.
+
+-git push ==> permet d'envoyer les commits vers un dépôt distant.
+
+-git pull ==> permet de récupérer les commits d'un dépôt distant.
+
+-git clone ==> permet de cloner un dépôt distant.
+
+-git stash ==> permet de mettre de côté les modifications non validées.
+
+-git reset ==> permet de revenir à un commit précédent.
+
+-git ls-files ==> permet de lister les fichiers suivis par git.
+
+-git rm ==> permet de supprimer un fichier du dépôt git.
+
+-git mv ==> permet de renommer un fichier du dépôt git.
+
+-git tag ==> permet de créer une étiquette.
+
+-git show ==> permet d'afficher les modifications d'un commit.
+
+-git diff ==> permet de voir les différences entre les commits.
+
+-git blame ==> permet de voir qui a modifié une ligne de code.
+
+-git ls-tree ==> permet de lister les fichiers d'un commit.
+
+-git grep ==> permet de rechercher une chaîne de caractères dans les fichiers suivis par git.
+
+-git shortlog ==> permet de lister les auteurs des commits.
+
+-git describe ==> permet de décrire un commit.
+
+-git  config ==> permet de configurer git.  
+
+-git help ==> permet d'afficher l'aide de git.
+
+-git  version ==> permet d'afficher la version de git.
