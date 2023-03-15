@@ -59,3 +59,11 @@ Nous allons donner certaines commandes git et leurs utilités.
 -git help ==> permet d'afficher l'aide de git.
 
 -git  version ==> permet d'afficher la version de git.
+
+-git gui ==> permet d'afficher l'interface graphique de git.
+
+-gitk ==> permet d'afficher l'interface graphique de git.
+
+-git  daemon ==> permet de lancer un démon git.
+
+-git  gc ==> permet de nettoyer le dépôt git.
