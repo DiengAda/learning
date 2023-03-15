@@ -1,0 +1,24 @@
+Log file created at: 2023/03/15 11:48:23
+Running on machine: prt-509518
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0315 11:48:23.033721 22123 environment.cpp:1765]  looking for "feelpp1/np_1/rectangle-1.msh"
+I0315 11:48:23.035501 22123 environment.cpp:1765]  looking for "/usr/share/feelpp/data/geo/rectangle-1.msh"
+I0315 11:48:23.035542 22123 environment.cpp:1765]  looking for "/usr/share/feel/config/rectangle-1.msh"
+I0315 11:48:23.035549 22123 environment.cpp:1765]  looking for "/home/mai-pret/Bureau/semestre2/github/learning/rectangle-1.msh"
+I0315 11:48:23.035581 22123 environment.cpp:1780] File "/home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh" found
+I0315 11:48:23.059072 22123 environment.cpp:1737] File /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh found
+I0315 11:48:23.070924 22123 importergmsh.hpp:989] Reading Msh file /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh
+I0315 11:48:23.072149 22123 importergmsh.hpp:1012] GMSH mesh file version : 4.1 format: ascii size of double: 8
+I0315 11:48:23.127481 22123 meshimpl.hpp:1100] We have 28 faces in the database
+I0315 11:48:23.149747 22123 meshimpl.hpp:1374] We have now 200 faces in the mesh
+I0315 11:48:23.150004 22123 meshimpl.hpp:1912] update boundary points...
+I0315 11:48:23.150020 22123 meshimpl.hpp:1932] update boundary elements...
+I0315 11:48:23.359877 22123 meshimpl.hpp:573] h average : 0.221952
+I0315 11:48:23.359969 22123 meshimpl.hpp:574]     h min : 0.157936
+I0315 11:48:23.359977 22123 meshimpl.hpp:575]     h max : 0.281599
+I0315 11:49:03.701998 22123 environment.cpp:2452] Environment::clearSomeMemory before: PETSC get current memory usage (resident memory): 249541  KBytes 249.541  MBytes 0.249541 GBytes
+I0315 11:49:03.702103 22123 environment.cpp:2457] Environment::clearSomeMemory before: PETSC get current PETSC Malloc usage: 0  KBytes 0 MBytes 0 GBytes
+I0315 11:49:03.702117 22123 environment.cpp:2459] Environment::clearSomeMemory before: PETSC get maximum PETSC Malloc usage(largest memory ever used so far): 0  KBytes 0 MBytes 0 GBytes
+I0315 11:49:03.702219 22123 environment.cpp:2452] Environment::clearSomeMemory after: PETSC get current memory usage (resident memory): 249541  KBytes 249.541  MBytes 0.249541 GBytes
+I0315 11:49:03.702232 22123 environment.cpp:2457] Environment::clearSomeMemory after: PETSC get current PETSC Malloc usage: 0  KBytes 0 MBytes 0 GBytes
+I0315 11:49:03.702237 22123 environment.cpp:2459] Environment::clearSomeMemory after: PETSC get maximum PETSC Malloc usage(largest memory ever used so far): 0  KBytes 0 MBytes 0 GBytes

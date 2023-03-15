@@ -1,0 +1,120 @@
+{
+ "Environment": {
+  "application": {
+   "name": "feelpp1"
+  },
+  "hardware": {
+   "prt-509518": {
+    "backend": "kwsys",
+    "domain_name": "prt-509518",
+    "hostname": "prt-509518",
+    "mem": {
+     "available": {
+      "host": "8022680",
+      "physical": "2732",
+      "proc": "8022680",
+      "virtual": "9026"
+     },
+     "total": {
+      "host": "8022680",
+      "physical": "7834",
+      "virtual": "9079"
+     },
+     "used": {
+      "checkpoint-1": {
+       "host": "6423204",
+       "proc": "188996"
+      }
+     }
+    },
+    "os": {
+     "is_apple": "0",
+     "is_linux": "1",
+     "is_windows": "0",
+     "name": "Linux",
+     "platform": "x86_64",
+     "release": "5.4.0-128-generic",
+     "version": "#144-Ubuntu SMP Tue Sep 20 11:00:04 UTC 2022"
+    },
+    "proc": {
+     "apic_id": "0",
+     "cache_size": "4096",
+     "clock_frequency": "2522.177002",
+     "cpu_id_support": "0",
+     "extended_name": "Unknown P6 family",
+     "family_id": "6",
+     "is_64bits": "1",
+     "logical_cpu_number": "4",
+     "logical_per_physical": "2",
+     "model_id": "142",
+     "physical_cpu_number": "2",
+     "serial_number": "",
+     "stepping_code": "12",
+     "type_id": "0",
+     "vendor_id": "Intel Corporation",
+     "vendor_name": "GenuineIntel"
+    }
+   }
+  },
+  "run": {
+   "command-line": "feelpp1",
+   "config-files": [],
+   "directories": {
+    "app": "/home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1",
+    "downloads": "/home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/downloads",
+    "export": "/home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/exports",
+    "exprs": "/home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/exprs",
+    "logs": "/home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/logs"
+   },
+   "number_of_processors": 1,
+   "uuid": "51dba15c-bb54-491f-83c2-2b704604c978"
+  },
+  "software": {
+   "boost": {
+    "version": "1_71"
+   },
+   "mpi": {
+    "library": {
+     "openmpi": {
+      "version": {
+       "major": 4,
+       "minor": 0,
+       "release": 3
+      }
+     }
+    },
+    "version": "3.1"
+   },
+   "petsc": {
+    "date": {
+     "release": "Sep, 29, 2019",
+     "version": "Feb, 04, 2020"
+    },
+    "version": {
+     "major": 3,
+     "minor": 12,
+     "release": 1,
+     "subminor": 4
+    }
+   }
+  }
+ },
+ "journal": {
+  "checkpoints": {
+   "checkpoint-1": {
+    "time": {
+     "gm": "Wed Mar 15 10:49:51 2023 GMT",
+     "local": "Wed Mar 15 11:49:51 2023 CET",
+     "time_t": 1678877391
+    }
+   },
+   "number": 1
+  },
+  "time": {
+   "gm": "Wed Mar 15 10:49:50 2023 GMT",
+   "local": "Wed Mar 15 11:49:50 2023 CET",
+   "time_t": 1678877390
+  },
+  "version": "0.1.0"
+ }
+}

@@ -1,0 +1,139 @@
+Log file created at: 2023/03/15 11:49:51
+Running on machine: prt-509518
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0315 11:49:51.571722 22272 environment.cpp:1765]  looking for "feelpp1/np_1/rectangle-1.msh"
+I0315 11:49:51.571833 22272 environment.cpp:1765]  looking for "/usr/share/feelpp/data/geo/rectangle-1.msh"
+I0315 11:49:51.571839 22272 environment.cpp:1765]  looking for "/usr/share/feel/config/rectangle-1.msh"
+I0315 11:49:51.571842 22272 environment.cpp:1765]  looking for "/home/mai-pret/Bureau/semestre2/github/learning/rectangle-1.msh"
+I0315 11:49:51.571848 22272 environment.cpp:1780] File "/home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh" found
+I0315 11:49:51.572011 22272 environment.cpp:1737] File /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh found
+I0315 11:49:51.572032 22272 importergmsh.hpp:989] Reading Msh file /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh
+I0315 11:49:51.572065 22272 importergmsh.hpp:1012] GMSH mesh file version : 4.1 format: ascii size of double: 8
+I0315 11:49:51.572957 22272 meshimpl.hpp:1100] We have 28 faces in the database
+I0315 11:49:51.573092 22272 meshimpl.hpp:1374] We have now 200 faces in the mesh
+I0315 11:49:51.573127 22272 meshimpl.hpp:1912] update boundary points...
+I0315 11:49:51.573132 22272 meshimpl.hpp:1932] update boundary elements...
+I0315 11:49:51.574731 22272 meshimpl.hpp:573] h average : 0.221952
+I0315 11:49:51.574746 22272 meshimpl.hpp:574]     h min : 0.157936
+I0315 11:49:51.574748 22272 meshimpl.hpp:575]     h max : 0.281599
+I0315 12:34:55.661607 22272 environment.cpp:1765]  looking for "feelpp1/np_1/rectangle-1.msh"
+I0315 12:34:55.686746 22272 environment.cpp:1765]  looking for "/usr/share/feelpp/data/geo/rectangle-1.msh"
+I0315 12:34:55.686857 22272 environment.cpp:1765]  looking for "/usr/share/feel/config/rectangle-1.msh"
+I0315 12:34:55.686892 22272 environment.cpp:1765]  looking for "/home/mai-pret/Bureau/semestre2/github/learning/rectangle-1.msh"
+I0315 12:34:55.686940 22272 environment.cpp:1780] File "/home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh" found
+I0315 12:34:55.687486 22272 environment.cpp:1737] File /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh found
+I0315 12:34:55.687536 22272 importergmsh.hpp:989] Reading Msh file /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh
+I0315 12:34:55.687642 22272 importergmsh.hpp:1012] GMSH mesh file version : 4.1 format: ascii size of double: 8
+I0315 12:34:55.704758 22272 meshimpl.hpp:1100] We have 28 faces in the database
+I0315 12:34:55.705510 22272 meshimpl.hpp:1374] We have now 200 faces in the mesh
+I0315 12:34:55.705677 22272 meshimpl.hpp:1912] update boundary points...
+I0315 12:34:55.705700 22272 meshimpl.hpp:1932] update boundary elements...
+I0315 12:34:55.710935 22272 meshimpl.hpp:573] h average : 0.221952
+I0315 12:34:55.710978 22272 meshimpl.hpp:574]     h min : 0.157936
+I0315 12:34:55.710986 22272 meshimpl.hpp:575]     h max : 0.281599
+I0315 12:35:01.186744 22272 environment.cpp:1765]  looking for "feelpp1/np_1/rectangle-1.msh"
+I0315 12:35:01.186764 22272 environment.cpp:1765]  looking for "/usr/share/feelpp/data/geo/rectangle-1.msh"
+I0315 12:35:01.186769 22272 environment.cpp:1765]  looking for "/usr/share/feel/config/rectangle-1.msh"
+I0315 12:35:01.186774 22272 environment.cpp:1765]  looking for "/home/mai-pret/Bureau/semestre2/github/learning/rectangle-1.msh"
+I0315 12:35:01.186784 22272 environment.cpp:1780] File "/home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh" found
+I0315 12:35:01.186928 22272 environment.cpp:1737] File /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh found
+I0315 12:35:01.186937 22272 importergmsh.hpp:989] Reading Msh file /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh
+I0315 12:35:01.186967 22272 importergmsh.hpp:1012] GMSH mesh file version : 4.1 format: ascii size of double: 8
+I0315 12:35:01.187485 22272 meshimpl.hpp:1100] We have 28 faces in the database
+I0315 12:35:01.187649 22272 meshimpl.hpp:1374] We have now 200 faces in the mesh
+I0315 12:35:01.187677 22272 meshimpl.hpp:1912] update boundary points...
+I0315 12:35:01.187681 22272 meshimpl.hpp:1932] update boundary elements...
+I0315 12:35:01.189663 22272 meshimpl.hpp:573] h average : 0.221952
+I0315 12:35:01.189690 22272 meshimpl.hpp:574]     h min : 0.157936
+I0315 12:35:01.189693 22272 meshimpl.hpp:575]     h max : 0.281599
+I0315 17:56:21.673038 22272 environment.cpp:1765]  looking for "feelpp1/np_1/rectangle-1.msh"
+I0315 17:56:21.703537 22272 environment.cpp:1765]  looking for "/usr/share/feelpp/data/geo/rectangle-1.msh"
+I0315 17:56:21.755542 22272 environment.cpp:1765]  looking for "/usr/share/feel/config/rectangle-1.msh"
+I0315 17:56:21.755611 22272 environment.cpp:1765]  looking for "/home/mai-pret/Bureau/semestre2/github/learning/rectangle-1.msh"
+I0315 17:56:21.755734 22272 environment.cpp:1780] File "/home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh" found
+I0315 17:56:21.767911 22272 environment.cpp:1737] File /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh found
+I0315 17:56:21.779139 22272 importergmsh.hpp:989] Reading Msh file /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh
+I0315 17:56:21.779312 22272 importergmsh.hpp:1012] GMSH mesh file version : 4.1 format: ascii size of double: 8
+I0315 17:56:21.870025 22272 meshimpl.hpp:1100] We have 28 faces in the database
+I0315 17:56:21.883515 22272 meshimpl.hpp:1374] We have now 200 faces in the mesh
+I0315 17:56:21.884335 22272 meshimpl.hpp:1912] update boundary points...
+I0315 17:56:21.884428 22272 meshimpl.hpp:1932] update boundary elements...
+I0315 17:56:22.025534 22272 meshimpl.hpp:573] h average : 0.221952
+I0315 17:56:22.025583 22272 meshimpl.hpp:574]     h min : 0.157936
+I0315 17:56:22.025593 22272 meshimpl.hpp:575]     h max : 0.281599
+I0315 17:56:32.512480 22272 environment.cpp:1765]  looking for "feelpp1/np_1/rectangle-1.msh"
+I0315 17:56:32.512490 22272 environment.cpp:1765]  looking for "/usr/share/feelpp/data/geo/rectangle-1.msh"
+I0315 17:56:32.512493 22272 environment.cpp:1765]  looking for "/usr/share/feel/config/rectangle-1.msh"
+I0315 17:56:32.512496 22272 environment.cpp:1765]  looking for "/home/mai-pret/Bureau/semestre2/github/learning/rectangle-1.msh"
+I0315 17:56:32.512501 22272 environment.cpp:1780] File "/home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh" found
+I0315 17:56:32.512615 22272 environment.cpp:1737] File /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh found
+I0315 17:56:32.512624 22272 importergmsh.hpp:989] Reading Msh file /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh
+I0315 17:56:32.512653 22272 importergmsh.hpp:1012] GMSH mesh file version : 4.1 format: ascii size of double: 8
+I0315 17:56:32.513049 22272 meshimpl.hpp:1100] We have 28 faces in the database
+I0315 17:56:32.513137 22272 meshimpl.hpp:1374] We have now 200 faces in the mesh
+I0315 17:56:32.513163 22272 meshimpl.hpp:1912] update boundary points...
+I0315 17:56:32.513167 22272 meshimpl.hpp:1932] update boundary elements...
+I0315 17:56:32.514286 22272 meshimpl.hpp:573] h average : 0.221952
+I0315 17:56:32.514297 22272 meshimpl.hpp:574]     h min : 0.157936
+I0315 17:56:32.514298 22272 meshimpl.hpp:575]     h max : 0.281599
+I0315 17:57:06.857959 22272 environment.cpp:1765]  looking for "feelpp1/np_1/rectangle-1.msh"
+I0315 17:57:06.858208 22272 environment.cpp:1765]  looking for "/usr/share/feelpp/data/geo/rectangle-1.msh"
+I0315 17:57:06.858230 22272 environment.cpp:1765]  looking for "/usr/share/feel/config/rectangle-1.msh"
+I0315 17:57:06.858243 22272 environment.cpp:1765]  looking for "/home/mai-pret/Bureau/semestre2/github/learning/rectangle-1.msh"
+I0315 17:57:06.858294 22272 environment.cpp:1780] File "/home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh" found
+I0315 17:57:06.858616 22272 environment.cpp:1737] File /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh found
+I0315 17:57:06.858736 22272 importergmsh.hpp:989] Reading Msh file /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh
+I0315 17:57:06.858856 22272 importergmsh.hpp:1012] GMSH mesh file version : 4.1 format: ascii size of double: 8
+I0315 17:57:06.859728 22272 meshimpl.hpp:1100] We have 28 faces in the database
+I0315 17:57:06.859990 22272 meshimpl.hpp:1374] We have now 200 faces in the mesh
+I0315 17:57:06.860095 22272 meshimpl.hpp:1912] update boundary points...
+I0315 17:57:06.860101 22272 meshimpl.hpp:1932] update boundary elements...
+I0315 17:57:06.863834 22272 meshimpl.hpp:573] h average : 0.221952
+I0315 17:57:06.863863 22272 meshimpl.hpp:574]     h min : 0.157936
+I0315 17:57:06.863867 22272 meshimpl.hpp:575]     h max : 0.281599
+I0315 17:57:26.341657 22272 environment.cpp:1765]  looking for "feelpp1/np_1/rectangle-1.msh"
+I0315 17:57:26.341675 22272 environment.cpp:1765]  looking for "/usr/share/feelpp/data/geo/rectangle-1.msh"
+I0315 17:57:26.341682 22272 environment.cpp:1765]  looking for "/usr/share/feel/config/rectangle-1.msh"
+I0315 17:57:26.341687 22272 environment.cpp:1765]  looking for "/home/mai-pret/Bureau/semestre2/github/learning/rectangle-1.msh"
+I0315 17:57:26.341699 22272 environment.cpp:1780] File "/home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh" found
+I0315 17:57:26.341864 22272 environment.cpp:1737] File /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh found
+I0315 17:57:26.341876 22272 importergmsh.hpp:989] Reading Msh file /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh
+I0315 17:57:26.341907 22272 importergmsh.hpp:1012] GMSH mesh file version : 4.1 format: ascii size of double: 8
+I0315 17:57:26.342556 22272 meshimpl.hpp:1100] We have 28 faces in the database
+I0315 17:57:26.342674 22272 meshimpl.hpp:1374] We have now 200 faces in the mesh
+I0315 17:57:26.342697 22272 meshimpl.hpp:1912] update boundary points...
+I0315 17:57:26.342701 22272 meshimpl.hpp:1932] update boundary elements...
+I0315 17:57:26.343947 22272 meshimpl.hpp:573] h average : 0.221952
+I0315 17:57:26.343958 22272 meshimpl.hpp:574]     h min : 0.157936
+I0315 17:57:26.343961 22272 meshimpl.hpp:575]     h max : 0.281599
+I0315 18:18:52.484580 22272 environment.cpp:1765]  looking for "feelpp1/np_1/rectangle-1.msh"
+I0315 18:18:52.511831 22272 environment.cpp:1765]  looking for "/usr/share/feelpp/data/geo/rectangle-1.msh"
+I0315 18:18:52.545728 22272 environment.cpp:1765]  looking for "/usr/share/feel/config/rectangle-1.msh"
+I0315 18:18:52.545866 22272 environment.cpp:1765]  looking for "/home/mai-pret/Bureau/semestre2/github/learning/rectangle-1.msh"
+I0315 18:18:52.545907 22272 environment.cpp:1780] File "/home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh" found
+I0315 18:18:52.546173 22272 environment.cpp:1737] File /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh found
+I0315 18:18:52.546195 22272 importergmsh.hpp:989] Reading Msh file /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh
+I0315 18:18:52.546247 22272 importergmsh.hpp:1012] GMSH mesh file version : 4.1 format: ascii size of double: 8
+I0315 18:18:52.560185 22272 meshimpl.hpp:1100] We have 28 faces in the database
+I0315 18:18:52.560467 22272 meshimpl.hpp:1374] We have now 200 faces in the mesh
+I0315 18:18:52.560528 22272 meshimpl.hpp:1912] update boundary points...
+I0315 18:18:52.560536 22272 meshimpl.hpp:1932] update boundary elements...
+I0315 18:18:52.565131 22272 meshimpl.hpp:573] h average : 0.221952
+I0315 18:18:52.565178 22272 meshimpl.hpp:574]     h min : 0.157936
+I0315 18:18:52.565183 22272 meshimpl.hpp:575]     h max : 0.281599
+I0315 18:18:56.440102 22272 environment.cpp:1765]  looking for "feelpp1/np_1/rectangle-1.msh"
+I0315 18:18:56.440119 22272 environment.cpp:1765]  looking for "/usr/share/feelpp/data/geo/rectangle-1.msh"
+I0315 18:18:56.440124 22272 environment.cpp:1765]  looking for "/usr/share/feel/config/rectangle-1.msh"
+I0315 18:18:56.440129 22272 environment.cpp:1765]  looking for "/home/mai-pret/Bureau/semestre2/github/learning/rectangle-1.msh"
+I0315 18:18:56.440136 22272 environment.cpp:1780] File "/home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh" found
+I0315 18:18:56.440277 22272 environment.cpp:1737] File /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh found
+I0315 18:18:56.440289 22272 importergmsh.hpp:989] Reading Msh file /home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/rectangle-1.msh
+I0315 18:18:56.440326 22272 importergmsh.hpp:1012] GMSH mesh file version : 4.1 format: ascii size of double: 8
+I0315 18:18:56.440874 22272 meshimpl.hpp:1100] We have 28 faces in the database
+I0315 18:18:56.441049 22272 meshimpl.hpp:1374] We have now 200 faces in the mesh
+I0315 18:18:56.441082 22272 meshimpl.hpp:1912] update boundary points...
+I0315 18:18:56.441085 22272 meshimpl.hpp:1932] update boundary elements...
+I0315 18:18:56.443697 22272 meshimpl.hpp:573] h average : 0.221952
+I0315 18:18:56.443729 22272 meshimpl.hpp:574]     h min : 0.157936
+I0315 18:18:56.443734 22272 meshimpl.hpp:575]     h max : 0.281599
+I0315 23:25:16.610617 22272 environment.cpp:1765]  looking for "feelpp1/np_1/rectangle-1.msh"

@@ -1,0 +1,9 @@
+Log file created at: 2023/03/15 11:47:46
+Running on machine: prt-509518
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0315 11:47:46.205614 20949 environment.cpp:2452] Environment::clearSomeMemory before: PETSC get current memory usage (resident memory): 233529  KBytes 233.529  MBytes 0.233529 GBytes
+I0315 11:47:46.205965 20949 environment.cpp:2457] Environment::clearSomeMemory before: PETSC get current PETSC Malloc usage: 0  KBytes 0 MBytes 0 GBytes
+I0315 11:47:46.206002 20949 environment.cpp:2459] Environment::clearSomeMemory before: PETSC get maximum PETSC Malloc usage(largest memory ever used so far): 0  KBytes 0 MBytes 0 GBytes
+I0315 11:47:46.206125 20949 environment.cpp:2452] Environment::clearSomeMemory after: PETSC get current memory usage (resident memory): 233529  KBytes 233.529  MBytes 0.233529 GBytes
+I0315 11:47:46.206146 20949 environment.cpp:2457] Environment::clearSomeMemory after: PETSC get current PETSC Malloc usage: 0  KBytes 0 MBytes 0 GBytes
+I0315 11:47:46.206154 20949 environment.cpp:2459] Environment::clearSomeMemory after: PETSC get maximum PETSC Malloc usage(largest memory ever used so far): 0  KBytes 0 MBytes 0 GBytes
