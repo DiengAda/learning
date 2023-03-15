@@ -58,4 +58,4 @@ Nous allons donner certaines commandes git et leurs utilités.
 
 -git help ==> permet d'afficher l'aide de git.
 
--git  version ==> permet d'afficher la version de git.
+-git  version ==> permet d'afficher la version de git.  
