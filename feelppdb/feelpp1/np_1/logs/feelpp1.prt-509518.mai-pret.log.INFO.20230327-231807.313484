@@ -1,0 +1,4 @@
+Log file created at: 2023/03/27 23:18:07
+Running on machine: prt-509518
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0327 23:18:07.380859 313484 environment.cpp:1765]  looking for "feelpp1/np_1/rectangle-1.msh"

@@ -11,9 +11,9 @@
     "mem": {
      "available": {
       "host": "8022680",
-      "physical": "2732",
+      "physical": "1438",
       "proc": "8022680",
-      "virtual": "9026"
+      "virtual": "5730"
      },
      "total": {
       "host": "8022680",
@@ -22,8 +22,8 @@
      },
      "used": {
       "checkpoint-1": {
-       "host": "6423204",
-       "proc": "188996"
+       "host": "7504628",
+       "proc": "170336"
       }
      }
     },
@@ -39,7 +39,7 @@
     "proc": {
      "apic_id": "0",
      "cache_size": "4096",
-     "clock_frequency": "2522.177002",
+     "clock_frequency": "2373.250000",
      "cpu_id_support": "0",
      "extended_name": "Unknown P6 family",
      "family_id": "6",
@@ -67,7 +67,7 @@
     "logs": "/home/mai-pret/Bureau/semestre2/github/learning/feelppdb/feelpp1/np_1/logs"
    },
    "number_of_processors": 1,
-   "uuid": "51dba15c-bb54-491f-83c2-2b704604c978"
+   "uuid": "9ad60dae-ab4c-4153-b745-044507b18b44"
   },
   "software": {
    "boost": {
@@ -103,17 +103,17 @@
   "checkpoints": {
    "checkpoint-1": {
     "time": {
-     "gm": "Wed Mar 15 10:49:51 2023 GMT",
-     "local": "Wed Mar 15 11:49:51 2023 CET",
-     "time_t": 1678877391
+     "gm": "Mon Mar 27 21:17:32 2023 GMT",
+     "local": "Mon Mar 27 23:17:32 2023 CEST",
+     "time_t": 1679951852
     }
    },
    "number": 1
   },
   "time": {
-   "gm": "Wed Mar 15 10:49:50 2023 GMT",
-   "local": "Wed Mar 15 11:49:50 2023 CET",
-   "time_t": 1678877390
+   "gm": "Mon Mar 27 21:17:30 2023 GMT",
+   "local": "Mon Mar 27 23:17:30 2023 CEST",
+   "time_t": 1679951850
   },
   "version": "0.1.0"
  }
